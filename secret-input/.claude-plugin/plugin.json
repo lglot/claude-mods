@@ -1,0 +1,1 @@
+{ "name": "secret-input", "version": "0.2.0", "description": "/secret <KEY>: masked field that saves a value to a `secrets` vault CLI without passing through the model", "author": { "name": "lglot" }, "types": "./types/index.d.ts" }

@@ -1,0 +1,5 @@
+{
+  "name": "claude-mods",
+  "owner": { "name": "lglot" },
+  "plugins": [{ "name": "secret-input", "source": "./secret-input" }]
+}
